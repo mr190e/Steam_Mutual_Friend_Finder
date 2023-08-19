@@ -2,7 +2,5 @@
     "discordToken": "Discord-Bopt-Token",
     "prefix": "/",
     "channelID": "Channel-ID",
-    "steamAPIKey": "API-KEy",
-	"cftoolsAppID": "CFtools-APP-ID",
-    "cftoolsSecret": "CFtools-App-Secret"
+    "steamAPIKey": "API-KEy"
 }
